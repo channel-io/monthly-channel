@@ -10,7 +10,7 @@
 ## 🤔 구독방법
 1. 해당 레포지토리의 watch를 통해서 알림을 받아 보실 수 있습니다. 레포지토리 좌상단의 watch 버튼을 클릭해주세요.
 2. 아래 주소에서 이메일 등록을 통하여 새로운 소식이 발행될 때마다 메일을 받아보실 수 있습니다.
-  - [이메일 구독하러 가기](https://monthly-channel-subscribe.netlify.app/)
+  - [이메일 구독하러 가기](https://channel-io.github.io/monthly-channel-subscribe-page/)
 
 ## ⚡️ 최근소식
 ### 2022
