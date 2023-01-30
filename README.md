@@ -13,6 +13,10 @@
   - [이메일 구독하러 가기](https://channel-io.github.io/monthly-channel-subscribe-page/)
 
 ## ⚡️ 최근소식
+
+### 2023
+- [2023-01](https://github.com/channel-io/monthly-channel/blob/main/issues/2023-01.md)
+
 ### 2022
 - [2022-11](https://github.com/channel-io/monthly-channel/blob/main/issues/2022-11.md)
 - [2022-10](https://github.com/channel-io/monthly-channel/blob/main/issues/2022-10.md)
