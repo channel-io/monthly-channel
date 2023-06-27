@@ -15,6 +15,7 @@
 ## ⚡️ 최근소식
 
 ### 2023
+- [2023-06](https://github.com/channel-io/monthly-channel/blob/main/issues/2023-06.md)
 - [2023-05](https://github.com/channel-io/monthly-channel/blob/main/issues/2023-05.md)
 - [2023-04](https://github.com/channel-io/monthly-channel/blob/main/issues/2023-04.md)
 - [2023-03](https://github.com/channel-io/monthly-channel/blob/main/issues/2023-03.md)
